@@ -1,10 +1,5 @@
 <div align="center">
   
-# 烟花模拟器
-
-一个可以模拟各种烟花效果的网页
-
-它可以展示各种绚丽多彩的烟花效果 并让人仿佛置身于真实烟花的绚丽世界之中
 
 <img src="./Image_Preview.png" alt="主界面" style="zoom:35%;" />
 
@@ -34,9 +29,6 @@
 
 - [haodong108/fireworks-2023](https://gitee.com/haodong108/fireworks-2023 "haodong108/fireworks-2023")
 
-## 最便宜的VPN
-
-[https://nianbroken.github.io/Great-Firewall/](https://nianbroken.github.io/Great-Firewall/ "https://nianbroken.github.io/Great-Firewall/")
 
 ## 其他
 
